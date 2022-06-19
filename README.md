@@ -17,15 +17,15 @@ In this paper, we discuss the design, development, and implementation of a HOD (
 ## Snippets of Project
 1)HomePage
 
-[img]https://i.imgur.com/PLSc49e.png[/img]
+![img](https://i.imgur.com/PLSc49e.png)
 
 2)Predictions Page
 
-[img]https://i.imgur.com/K0pvoRB.png[/img]
+![img](https://i.imgur.com/K0pvoRB.png)
 
 3)Dashboard
 
-[img]https://i.imgur.com/Q4U63eK.png[/img]
+![img](https://i.imgur.com/Q4U63eK.png)
 ## Run Locally
 
 Clone the project
