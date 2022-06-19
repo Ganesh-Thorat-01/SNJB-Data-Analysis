@@ -14,6 +14,18 @@ In this paper, we discuss the design, development, and implementation of a HOD (
 - **[You can reach the application here]** **https://snjbcomputer.herokuapp.com//**
 
 
+## Snippets of Project
+1)HomePage
+
+[img]https://i.imgur.com/PLSc49e.png[/img]
+
+2)Predictions Page
+
+[img]https://i.imgur.com/K0pvoRB.png[/img]
+
+3)Dashboard
+
+[img]https://i.imgur.com/Q4U63eK.png[/img]
 ## Run Locally
 
 Clone the project
