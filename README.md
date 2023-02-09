@@ -11,7 +11,7 @@
 In this paper, we discuss the design, development, and implementation of a HOD (Head of Department)  dashboard. The dashboard meets the demands of the HOD of the Computer Department, maximizes the mainstreaming potential and transferability to other contexts, and is developed in the path of Open Source. A key approach in the development of the dashboard is modularity. This leads us to a design with three modules: the data collection, the search and information processing, and the data presentation. Based on these modules, we present the steps of finding a fitting Open Source technology stack for our concept and discuss pros and cons throughout the process.
 
 
-- **[You can reach the application here]** **https://snjbcomputer.herokuapp.com//**
+- **[You can reach the application here]** **https://snjbcomputer.onrender.com/**
 
 
 ## Snippets of Project
